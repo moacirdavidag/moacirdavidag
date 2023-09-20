@@ -20,5 +20,6 @@ Link: <a href="https://moacirdavidag.github.io/">acesse clicando aqui</a>.
 
 ### Minhas estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moacirdavidag&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moacirdavidag&show_icons=true&theme=dracula) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moacirdavidag)](https://github.com/anuraghazra/github-readme-stats)
